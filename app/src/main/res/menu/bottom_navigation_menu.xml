@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_heros"
+        android:icon="@drawable/ic_superhero"
+        android:title="@string/title_heroes" />
+
+    <item
+        android:id="@+id/navigation_covid"
+        android:icon="@drawable/ic_virus"
+        android:title="@string/title_covid_ireland" />
+
+</menu>
